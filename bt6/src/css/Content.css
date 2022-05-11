@@ -1,0 +1,74 @@
+.home {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.header {
+    width: 93%;
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px;
+    margin-left: 30px;
+}
+
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.button{
+    display: flex;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.like{
+    border: 1px solid aqua;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+
+.edit{
+    border: 1px solid orange;
+    background-color: pink;
+    border-radius: 10px;
+}
+
+.post {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 90%;
+}
+
+.post-title {
+    width: 93%;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    height: 30px;
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.post-content{
+    width: 93%;
+    border: 1px solid black;
+    margin: 10px;
+    margin-left: 30px;
+    padding: 10px;
+}
+.count {
+    border: 1px solid black;
+    width: 10%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}

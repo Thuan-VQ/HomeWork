@@ -1,0 +1,6 @@
+.jav-item {
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    display: flex;
+}
